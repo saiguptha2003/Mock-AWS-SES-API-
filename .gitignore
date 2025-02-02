@@ -1,0 +1,58 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+
+# Go workspace stuff
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+
+# Dependency files
+vendor/
+
+# Go Modules
+go.sum
+
+# SQLite Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Compiled files & Debug files
+*.o
+*.a
+*.lo
+*.la
+*.so
+*.swp
+
+# Debug logs & test results
+debug/
+coverage.out
+
+# Environment & Secrets
+.env
+.env.local
+.env.production
+.env.test
+config.json
+secrets.json
+
+# Postman Collections (Optional)
+*.postman_collection.json
+
+# IDE & Editor Specific Files
+# JetBrains (GoLand)
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
