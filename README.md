@@ -3,8 +3,8 @@
 ## Setup & Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mock-ses-api.git
-cd mock-ses-api
+git https://github.com/saiguptha2003/Mock-AWS-SES-Api.git
+cd Mock-AWS-SES-Api
 ```
 2. Install dependencies
 ```bash
